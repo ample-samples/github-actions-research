@@ -13,4 +13,6 @@ is a streamlined method of testing and deployment of applications. This automate
 
 ## Benefits of CI/CD implementation
 - **Happier users and customers** - since there are fewer bugs and errors, customers would have a better experience and higher satisfaction levels
-- **Enhance code quality** - integration of code in small batches into a common repository. Facilitates code testing simultaneously. 
+- **Enhance code quality** - integration of code in small batches into a common repository. Facilitates code testing simultaneously. Able to easily identify bugs and errors before it makes it to production. 
+- **Recover Faster** - CI/CD simplifies fixing issues and recovering from incidents, reducing mean time to resolution (MTTR). Easier to track down errors with small integrations of code. 
+- **Contiuous Feedback**
