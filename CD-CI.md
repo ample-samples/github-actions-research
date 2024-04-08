@@ -15,7 +15,7 @@ is a streamlined method of testing and deployment of applications. This automate
 -  Happier users and customers 
 -  Enhance code quality   
 -  Recover Faster  
--  Contiuous Feedback 
+-  Continuous Feedback 
 -  Reduces costs
 
-!(src/assets/ci-cd-image.png)
+!(/src/assets/ci-cd-image.png)
