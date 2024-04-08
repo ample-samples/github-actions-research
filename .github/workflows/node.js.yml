@@ -31,5 +31,7 @@ jobs:
       - name: Deploy to GitHub Pages
         if: success()
         run: |
+          git config --global user.email "todd.griffin61@outlook.com" 
+          git config --global user.name "ample-samples"
           npm run build
           npm run deploy
