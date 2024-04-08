@@ -18,4 +18,4 @@ is a streamlined method of testing and deployment of applications. This automate
 -  Continuous Feedback 
 -  Reduces costs
 
-![/src/assets/ci-cd-image.png "CI/CD image"]
+![CI/CD image](/src/assets/ci-cd-image.png)
