@@ -8,4 +8,5 @@ export const twoSum = (nums: number[], target: number) => {
       map.set(nums[i], i);
     }
   }
+  return [];
 };
