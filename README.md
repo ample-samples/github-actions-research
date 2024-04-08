@@ -12,6 +12,8 @@
 
 - **Code Review** - Allow people to review your code before merging to catch bugs errors and maintain code quality
 
+- **Ensure tests are passed** - Before anything is merged you can check if tests are passed first.
+
 - 3.) What are [GitHub Actions](https://docs.github.com/en/actions)? (Michaela)
 
 ---
